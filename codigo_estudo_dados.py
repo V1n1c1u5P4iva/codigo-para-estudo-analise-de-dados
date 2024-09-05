@@ -2,9 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 plt.style.use("seaborn-v0_8-dark")
 
-from google.colab import files
-arq = files.upload()
-
 # Criando o DataFrame
 df = pd.read_csv("municipios_brasil.csv")
 
