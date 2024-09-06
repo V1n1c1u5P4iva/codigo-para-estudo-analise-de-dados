@@ -44,7 +44,7 @@ O projeto utiliza um conjunto de dados CSV fictícios contendo informações sob
 
 2. **Execução do Código**:
    - Faça o upload do arquivo CSV com os dados fictícios.
-   - Execute o código presente no notebook `Projeto_Analise_de_Dados.py` para realizar a análise.
+   - Execute o código presente no notebook `Codigo_Estudos.py` para realizar a análise.
 
 3. **Visualização dos Resultados**:
    - Após executar o código, você visualizará gráficos e estatísticas.
